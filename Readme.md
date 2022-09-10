@@ -7,7 +7,6 @@ This file will include the code for all the projects mentioned in the <a href='h
 - <a href="https://github.com/TechGram-Academy/project-hangman-python"> Project - Hangman</a> 
 
 
-https://github.com/TechGram-Academy/project-hangman-python
 
 
 
