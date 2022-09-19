@@ -5,6 +5,9 @@ This file will include the code for all the projects mentioned in the <a href='h
 - <a href="https://github.com/TechGram-Academy/project-password-generator-python/blob/main/code.py"> Project - Password Generator</a> 
 - <a href="https://github.com/TechGram-Academy/project-dice"> Project - Dice</a> 
 - <a href="https://github.com/TechGram-Academy/project-hangman-python"> Project - Hangman</a> 
+- <a href="https://github.com/TechGram-Academy/employee-management-python"> Project - Employee Management</a> 
+
+
 
 
 
