@@ -8,6 +8,10 @@ This file will include the code for all the projects mentioned in the <a href='h
 - <a href="https://github.com/TechGram-Academy/employee-management-python"> Project - Employee Management</a> 
 - <a href="https://github.com/TechGram-Academy/Ticket-Machine-Python"> Project - Ticket Machine</a> 
 - <a href="https://github.com/TechGram-Academy/car-race-python-turtle"> Project - Car Race</a> 
+- <a href="https://github.com/TechGram-Academy/Snake-Game-Python"> Project - Snake Game</a> 
+
+
+
 
 
 
